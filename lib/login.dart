@@ -90,7 +90,6 @@ class _LoginState extends State<Login> {
               TextField(
                 //Keeping original TextField for now as the provided update is incomplete and unclear.
                 controller: emailController,
-                obscureText: true,
                 decoration: InputDecoration(
                   hintText: 'ENTER EMAIL',
                   hintStyle: TextStyle(

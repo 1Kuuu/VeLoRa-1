@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:http/http.dart' as http;
 import 'dart:convert';
 import 'login.dart';
-import 'package:velora_prototype/google.dart';
 
 class Signup extends StatefulWidget {
   const Signup({super.key});

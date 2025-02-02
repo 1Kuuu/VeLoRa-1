@@ -1,7 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:velora_prototype/google.dart';
 import 'package:velora_prototype/login.dart';
-import 'forgot_password.dart';
 
 class ResetPasswordPage extends StatefulWidget {
   const ResetPasswordPage({super.key});
